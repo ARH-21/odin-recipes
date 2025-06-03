@@ -1,0 +1,1 @@
+This project is an HTML page that contains links to recipes. Click on the link to view a recipe.
